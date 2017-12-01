@@ -1,0 +1,20 @@
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\bin\Debug\LED Cube pattern generator.exe
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\bin\Debug\LED Cube pattern generator.pdb
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\bin\Debug\LED Cube pattern generator.xml
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Debug\LED_Cube_pattern_generator.Form1.resources
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Debug\LED_Cube_pattern_generator.Resources.resources
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Debug\LED Cube pattern generator.vbproj.GenerateResource.Cache
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Debug\LED Cube pattern generator.exe
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Debug\LED Cube pattern generator.xml
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Debug\LED Cube pattern generator.pdb
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\bin\Release\LED Cube pattern generator.exe
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\bin\Release\LED Cube pattern generator.pdb
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\bin\Release\LED Cube pattern generator.xml
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Release\ResolveAssemblyReference.cache
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED_Cube_pattern_generator.Form1.resources
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED_Cube_pattern_generator.Resources.resources
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.vbproj.GenerateResource.Cache
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.exe
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.xml
+F:\Work\VB progs\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.pdb

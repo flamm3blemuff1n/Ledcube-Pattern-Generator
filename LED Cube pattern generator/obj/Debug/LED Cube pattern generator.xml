@@ -1,0 +1,88 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LEDCubepatterngenerator
+</name>
+</assembly>
+<members>
+<member name="P:LED_Cube_pattern_generator.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.arrow_down_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.arrow_up_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.Author_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.check_24x19">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.gear_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.License">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.loop_alt2_24x21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.loop_alt2_32x28">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.minus_32x8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.plus_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.plus_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.plus_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.plus_32x32test2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.Splashscreen_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.wrench_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LED_Cube_pattern_generator.My.Resources.Resources.x_28x28">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:LED_Cube_pattern_generator.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

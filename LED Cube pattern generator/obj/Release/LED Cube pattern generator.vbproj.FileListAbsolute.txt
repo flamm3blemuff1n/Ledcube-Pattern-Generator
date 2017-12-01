@@ -1,0 +1,23 @@
+C:\Users\flammeblemuffin\Documents\Visual Studio 2012\Projects\LED Cube pattern generator\LED Cube pattern generator\bin\Release\LED Cube pattern generator.exe.config
+C:\Users\flammeblemuffin\Documents\Visual Studio 2012\Projects\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.exe
+C:\Users\flammeblemuffin\Documents\Visual Studio 2012\Projects\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.xml
+C:\Users\flammeblemuffin\Documents\Visual Studio 2012\Projects\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.pdb
+C:\Users\flammeblemuffin\Documents\Visual Studio 2012\Projects\LED Cube pattern generator\LED Cube pattern generator\bin\Release\LED Cube pattern generator.exe
+C:\Users\flammeblemuffin\Documents\Visual Studio 2012\Projects\LED Cube pattern generator\LED Cube pattern generator\bin\Release\LED Cube pattern generator.pdb
+C:\Users\flammeblemuffin\Documents\Visual Studio 2012\Projects\LED Cube pattern generator\LED Cube pattern generator\bin\Release\LED Cube pattern generator.xml
+C:\Users\flammeblemuffin\Documents\Visual Studio 2012\Projects\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED_Cube_pattern_generator.Form1.resources
+C:\Users\flammeblemuffin\Documents\Visual Studio 2012\Projects\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED_Cube_pattern_generator.Resources.resources
+C:\Users\flammeblemuffin\Documents\Visual Studio 2012\Projects\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED_Cube_pattern_generator.SplashScreen1.resources
+C:\Users\flammeblemuffin\Documents\Visual Studio 2012\Projects\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.vbproj.GenerateResource.Cache
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\bin\Release\LED Cube pattern generator.exe.config
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\bin\Release\LED Cube pattern generator.exe
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\bin\Release\LED Cube pattern generator.pdb
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\bin\Release\LED Cube pattern generator.xml
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.vbprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED_Cube_pattern_generator.Form1.resources
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED_Cube_pattern_generator.Resources.resources
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.vbproj.GenerateResource.Cache
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.vbproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.exe
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.xml
+D:\Projects\Visual Studio\LED Cube pattern generator\LED Cube pattern generator\obj\Release\LED Cube pattern generator.pdb
